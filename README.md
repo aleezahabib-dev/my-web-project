@@ -17,4 +17,4 @@ This is a practice project created to learn Git and GitHub.
 
 ## Author
 
-Aleeza Habib
+Aleeza Habib Ahmed
