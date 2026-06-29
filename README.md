@@ -12,9 +12,9 @@ This is a practice project created to learn Git and GitHub.
 
 - Basic HTML page
 - CSS styling
-- JavaScript functionality
+- JavaScript setup
 - Git branching practice
 
 ## Author
 
-Aleeza Habib Ahmed
+Aleeza Habib
